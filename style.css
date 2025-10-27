@@ -26,3 +26,20 @@ html {
 }
 
 /* NEW CSS HERE */
+
+ul {
+  background-color: light purple;
+}
+.container {
+  background-color: #A54CBB;
+  padding:  20px;
+}
+body {
+  background-image: url('grape.sideofscreen.png');
+  background-repeat: repeat;
+  background-size: 300px;
+}
+
+a {
+  color: white;
+}
